@@ -15,6 +15,15 @@ Imagine a world where you can explore the neighbourhoods, alleys, and hidden cor
 
 **Community and Social Interaction:** Connect with fellow cat enthusiasts and participate in tournaments to prove who has the most formidable team of stray cats.
 
+# Tech Stack:
+- Python
+- Python-Telegram-Bot
+- MongoDB
+
+# AI Pipeline:
+- salesforce/blip-image-captioning-base
+- Dalle3
+
 # By: 
 Nicole: yxyohy@gmail.com
 Jordan Wong: jorwong5@gmail.com
