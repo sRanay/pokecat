@@ -1,0 +1,6 @@
+openai==1.8.0
+Pillow==10.1.0
+python-dotenv==1.0.0
+requests==2.31.0
+transformers==4.36.2
+torch==2.1.2
